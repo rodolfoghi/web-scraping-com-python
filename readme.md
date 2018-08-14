@@ -4,4 +4,5 @@ Códigos gerados durante a leitura do livro [Web Scraping com Python](https://bo
 
 ## Capítulo 1 - Seu primeiro web scraper
 
-* [scrapetest](/cap-01/scrapetest.py)
+* [Conectando-se](/cap-01/scrapetest.py)
+* [Executando o BeautifulSoup](/cap-01/exercise1.py)
