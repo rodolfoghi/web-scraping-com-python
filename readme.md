@@ -11,3 +11,5 @@ Códigos gerados durante a leitura do livro [Web Scraping com Python](https://bo
 ## Capítulo 2 - Análise de HTML avançada
 
 * [Outras utilidades do BeautifulSoup](/cap-02/exercise1.py)
+* [Listando links das notícias do G1](/cap-02/g1-feed-post-link.py)
+  ![Exemplo de saída Listando links das notícias do G1]("/cap-02/g1-feed-post-link.png")
