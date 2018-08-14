@@ -7,3 +7,7 @@ Códigos gerados durante a leitura do livro [Web Scraping com Python](https://bo
 * [Conectando-se](/cap-01/scrapetest.py)
 * [Executando o BeautifulSoup](/cap-01/exercise1.py)
 * [Conectando-se de maneira confiável](/cap-01/exercise2.py)
+
+## Capítulo 2 - Análise de HTML avançada
+
+* [Outras utilidades do BeautifulSoup](/cap-02/exercise1.py)
